@@ -2,7 +2,6 @@ package io.github.sholinxlx.hello_mod;
 
 import net.minecraft.Util;
 import net.minecraft.network.chat.TextComponent;
-import net.minecraft.world.entity.ItemSteerable;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
